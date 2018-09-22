@@ -117,4 +117,4 @@ https://www.terraform.io/guides/writing-custom-terraform-providers.html
 
 If you need more information about how to install or use this plugin, do not hesitate to read this article: [Using Terraform to Provision Linode Environments][4]
 
-[4]:https://www.linode.com/docs/platform/how-to-build-your-infrastructure-using-Terraform-and-Linode
+[4]:https://www.linode.com/docs/applications/configuration-management/how-to-build-your-infrastructure-using-terraform-and-linode/
